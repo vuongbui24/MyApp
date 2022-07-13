@@ -1,0 +1,21 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "breadcrumbs.enabled": true,
+  "editor.hover.enabled": true,
+  "eslint.workingDirectories": [
+    {
+      "directory": "front",
+      "changeProcessCWD": true
+    },
+    "back",
+    "front"
+  ],
+  "eslint.runtime": "",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ]
+}
